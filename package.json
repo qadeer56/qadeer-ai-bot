@@ -1,0 +1,14 @@
+{
+  "name": "qadeer-ai-bot",
+  "version": "1.0.0",
+  "description": "Qadeer AI WhatsApp Assistant and Chat Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "whatsapp-web.js": "^1.34.4",
+    "qrcode-terminal": "^0.12.0",
+    "express": "^5.1.0"
+  }
+}
